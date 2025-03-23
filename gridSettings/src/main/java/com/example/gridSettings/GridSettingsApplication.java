@@ -10,5 +10,4 @@ public class GridSettingsApplication {
 		SpringApplication.run(GridSettingsApplication.class, args);
 	}
 
-
 }
